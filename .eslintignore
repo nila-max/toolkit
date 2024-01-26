@@ -2,7 +2,7 @@
 artifacts
 cache
 coverage
-node_modules
+node_modules=12345
 typechain-types
 dist
 dist/typechain-types
